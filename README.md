@@ -1,9 +1,9 @@
 # PingPongJs
-###Descrição:
+### Descrição:
 Apresento o PingPongJs, um jogo simples de Ping Pong desenvolvido em Javascript. Este projeto visa proporcionar uma experiência interativa, onde os jogadores podem rebater a bola, acumular pontos e desfrutar de desafios crescentes.
 
 ## Regras:
-###Rebatida nos Cantos:
+### Rebatida nos Cantos:
 
 Ao tocar o canto superior ou inferior da tela, a bola deve ser rebatida sem alterar sua direção horizontal, apenas ajustando a altura.
 
